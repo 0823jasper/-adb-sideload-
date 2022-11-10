@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="AppEngineRunConfiguration" factoryName="App Engine DevAppServer" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <module name="ADB-FRP-Bypass" />
+    <setting name="serverAddress" value="192.168.2.25" />
+    <setting name="sdkPath" value="file://$USER_HOME$/AndroidStudioProjects" />
+    <setting name="serverPort" value="" />
+    <setting name="vmArgs" value="" />
+    <setting name="warPath" value="" />
+    <setting name="sync" value="false" />
+    <setting name="disableUpdateCheck" value="false" />
+    <method v="2">
+      <option name="AppEngine.Gradle.BeforeRunTask" enabled="true" tasks=":assemble" />
+    </method>
+  </configuration>
+</component>

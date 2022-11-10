@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bd817c5-29bc-4ecc-a481-1a0cb8a95488" name="Changes" comment=" JKGKJ">
-      <change beforePath="$PROJECT_DIR$/.idea/ADB-FRP-Bypass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ADB-FRP-Bypass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Unnamed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,9 +32,10 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="cidr.known.project.marker" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="AndroidDataBinding" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Remote JVM Debug.Unnamed">
     <configuration default="true" type="AppEngineRunConfiguration" factoryName="App Engine DevAppServer">
       <module name="" />
       <setting name="serverAddress" value="" />
@@ -56,8 +57,16 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
       <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Remote JVM Debug.Unnamed" />
+      <item itemvalue="App Engine DevAppServer.Unnamed" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,7 +84,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668069292920</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" JKGKJ">
+      <created>1668071780294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668071780294</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" JKGKJ">
+      <created>1668071795579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668071795579</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" JKGKJ">
+      <created>1668071835628</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668071835628</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +122,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" JKGKJ" />
     <option name="LAST_COMMIT_MESSAGE" value=" JKGKJ" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
